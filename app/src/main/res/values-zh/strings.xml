@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ex2</string>
+    <string name="so_mot">一</string>
+    <string name="so_hai">二</string>
+    <string name="so_ba">三</string>
+    <string name="so_bon">四</string>
+    <string name="so_nam">五</string>
+    <string name="so_sau">六</string>
+</resources>

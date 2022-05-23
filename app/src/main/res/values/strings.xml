@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ex2</string>
+
+    <string name="so_mot">1</string>
+    <string name="so_hai">2</string>
+    <string name="so_ba">3</string>
+    <string name="so_bon">4</string>
+    <string name="so_nam">5</string>
+    <string name="so_sau">6</string>
+</resources>
